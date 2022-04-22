@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard but prefer to be called Rich.
-- 👀 I’m interested in cyber security and backend development
-- 🌱 I’m currently learning c++ and python.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
